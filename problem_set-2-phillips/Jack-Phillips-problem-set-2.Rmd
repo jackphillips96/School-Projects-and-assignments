@@ -4,12 +4,6 @@ author: "Jack Phillips"
 date: "10-6-19"
 ---
 
-# Details
-
-- Who did you collaborate with: xxxxx
-- Approximately how much time did you spend on this problem set: xxxxx
-- What, if anything, gave you the most trouble: xxxxx
-
 ## Instructions
 
 In addition to running the code, you will need to do two things: either write in complete sentences a response or write R code to fill in a chunk.
